@@ -20,7 +20,7 @@
     "dev": "webpack -d --watch",
     "build": "webpack -p"
   },
-  "author": "",
+  "author": "siva",
   "license": "ISC",
   "description": ""
 }
